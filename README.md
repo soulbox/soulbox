@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mert Bulutoglu</h1>
+<h1 align="center">Hi 👋, I'm Kadir Aygün</h1>
 <h3 align="center">A desirous Software Developer from Istanbul</h3>
 
 
