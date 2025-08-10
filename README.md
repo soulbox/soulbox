@@ -21,4 +21,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soulbox&" alt="kadir Aygün" /></p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=soulbox)](https://github.com/soulbox/github-readme-stats)
